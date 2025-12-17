@@ -1,0 +1,6 @@
+#tabela=Filmes
+titulo,genero,duracao,ano_lancamento,diretor,disponivel
+Persona,drama,84,1966,Ingmar Bergman,TRUE
+Tár,drama,158,2022,Todd Field,TRUE
+Taxi Driver,drama,114,1976,Martin Scorsese,TRUE
+Crepúsculo,romance,122,2008,Catherine Hardwicke,TRUE
