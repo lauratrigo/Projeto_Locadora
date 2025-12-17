@@ -1,4 +1,4 @@
-# 🎬 Sistema de Locadora – C# | Programação III
+# 🎬 Sistema de Locadora – C# (Programação III)
 
 Este repositório contém o **projeto final da disciplina de Programação III**, desenvolvido em **C#**, com foco em **aplicações desktop com banco de dados**, utilizando **arquitetura MVC**, **DAO** e conceitos de **Programação Orientada a Objetos**.
 
